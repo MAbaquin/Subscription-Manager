@@ -1,0 +1,1 @@
+export const LOGOUT_BUTTON_TEXT = "Logout"
